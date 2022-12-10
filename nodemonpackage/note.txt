@@ -1,5 +1,0 @@
-nodemon is used in almost all project because it saves the time 
-the code updates need to be tested repeatledly 
-so for running the updated code with run command in terminal everytime 
-the nodemon will that job 
-

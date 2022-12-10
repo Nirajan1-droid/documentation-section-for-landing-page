@@ -1,0 +1,7 @@
+ so removing extension is applied to secure the website 
+ by hiding the dir 
+ and the type of the language used for the website development
+
+
+ so we won't be using the use(express.static(pathName));
+ 

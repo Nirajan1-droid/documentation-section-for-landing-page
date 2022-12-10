@@ -1,0 +1,1 @@
+this is form the argument vector file and i store the array while you put the string on the run command

@@ -1,0 +1,7 @@
+node js is the async 
+threading : single thread
+sync/async: async also in the js case 
+
+syncing : first second third fourth , if the first take one min ,second won't be run until then
+
+async: don't wait for the first command to be executed 

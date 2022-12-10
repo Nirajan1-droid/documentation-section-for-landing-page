@@ -1,0 +1,17 @@
+const dirPath = path.join(__dirname,'crud')
+gets the path of the crud  and .join is for adding the sub files
+.joins tells that i have the __dirname which i will give you when you ask for 
+adding the new file if you call me 
+
+
+const filePath = `${dirPath}/apple.txt`
+aba yaha dirPath call vayo
+dirPath sanga location xa kaha gayera new files add garne ho vanera
+
+
+fs.writeFileSync(filePath,'This is a simple text file');
+filePath ma new sub file ko path xa 
+not the path of the crud 
+but the path inside the crud to the crud
+
+and the string is meant to be added to that text

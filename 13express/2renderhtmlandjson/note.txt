@@ -1,0 +1,3 @@
+html rendering will be important for the website
+and the json rendering will be important for the APIS
+

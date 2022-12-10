@@ -1,0 +1,17 @@
+process contains all the node modules information with the command line
+and here we will use the filelink and the fileunlink to add and delete the string 
+with respect to the array we will be passing 
+
+arg vector ::
+first 0 
+first 1 are packed with the dir name which contains the package code to store the array 
+2 
+3
+4 .. unlimited 
+we can specify the type of the string with the condition for the another string 
+but the kind of function we need to analayze
+as filelink commnad will require the array 3 and array4 to be together as 
+the array 3 will be the dir name and the array 4 will the string 
+
+thus for condition we can  use the array 2 or array after the 4 
+

@@ -1,0 +1,5 @@
+server
+header and API body 
+API with static data 
+put data in another 
+api in one file and data in another

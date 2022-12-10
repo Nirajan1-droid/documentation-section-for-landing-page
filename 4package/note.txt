@@ -24,4 +24,7 @@ git push 'remote_name' 'branch name'
 2. git remote add origin link -link refers to the http link of the repo- to add all the files to the given folder
 3. git status : to view all the files which are going to be add/stagged to the first commit
 4. git add . : the . is the commnad to add all 
-
+
+5.git commit -m "message" . to commit -m = main 
+6.git push -u origin master 
+

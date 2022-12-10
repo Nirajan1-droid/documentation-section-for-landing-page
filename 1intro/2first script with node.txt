@@ -1,0 +1,12 @@
+console.log is not the js 
+ it is browser side
+
+ in node js 
+
+ condition , loop and array
+ the import function and varibale from anothr file 
+js fundamentals for nodejs
+
+as this is the branch of js and you are considered as the previous learner of js 
+so that  the nodejs doesnot teach you the fundamentals as the fundamentals of the node js is the js
+

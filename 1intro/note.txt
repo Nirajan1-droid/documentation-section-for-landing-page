@@ -1,0 +1,18 @@
+request respons and different types of header 
+
+client side :: server load
+server side :: in server side :: mysql, node 
+
+chrome uses V8 engine 
+node js also uses V8 engine 
+
+V8 uses C++ 
+
+nodejs is used to make APIS
+andriod and ios 
+make also webiste 
+software development 
+
+server:: database
+server:: cloud service
+

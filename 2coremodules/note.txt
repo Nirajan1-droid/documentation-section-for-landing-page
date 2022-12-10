@@ -1,0 +1,18 @@
+core module
+global and non global 
+global are the modules where the import is  not neccessary
+ console, arr , 
+
+non global: react, express, etc..
+
+
+database connection purpose
+code process purpose
+api call purpose
+app build purpose
+
+fs = filesystem 
+buffer
+HTTP 
+these are the core module 
+

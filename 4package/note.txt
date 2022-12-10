@@ -1,0 +1,27 @@
+package.json
+package update 
+carries
+version
+name of the package
+npm = node package manager
+init = initialize the manager
+if delete package.json app will destroy
+npm i -g = will install the module for globally that is, installed in the OS not  in the specified folder
+node js is the single thread thing 
+one task at a time 
+multi thread is multi work at single time 
+but still the nodejs is faster why?
+
+node_mudule if deleted?
+package.json is the file which will recover the entire packages with the respective versions
+and if the npm directly is missing then we need to reinstall node and reinitialize the modules
+
+
+correct way to push data on git?
+git push 'remote_name' 'branch name'
+
+1. git init for initialize the repository  and it will create a hidden .git file 
+2. git remote add origin link -link refers to the http link of the repo- to add all the files to the given folder
+3. git status : to view all the files which are going to be add/stagged to the first commit
+4. git add . : the . is the commnad to add all 
+
